@@ -11,11 +11,6 @@
         "title": "HomePage",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
-      },
-      {
-        "title": "Contact",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
       }
     ],
     "reviewer": "Abdulwahab Adi"
